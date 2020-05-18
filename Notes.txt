@@ -1,0 +1,29 @@
+
+	PARA TRABAJO EN UNA ESTACIÓN WINDOWS
+	====================================
+
+	INSTALACIÓN TYPESCRIPT
+	----------------------
+
+	Primero instalar en Node typescripit como se enseña aquí:
+	https://www.nativescript.org/blog/installing-nativescript-on-windows
+
+	
+	INSTALACIÓN DE VUE JS y PRUEBA EN iOS y Android
+	-----------------------------------------------
+
+	En esta página se indica como instalar Vue Cli, para luego crear un proyecto de ejemplo que utilice typescript y Vue.
+
+	Luego se ejecuta la aplicación. El runtime entregará el código QR quedando disponible para probarse tanto en Android como en iOS
+
+	https://www.nativescript.org/blog/setting-up-a-robust-nativescript-vue-development-environment
+
+
+	TUTORIALES
+	----------
+
+	https://medium.com/learning-lab/lessons-learned-on-writing-apps-with-nativescript-vuejs-bd6a3066f0cb
+
+
+
+
